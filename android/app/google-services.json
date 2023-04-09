@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715758020573",
+    "project_id": "rekach-545b5",
+    "storage_bucket": "rekach-545b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715758020573:android:ebfc60d54294b775a23834",
+        "android_client_info": {
+          "package_name": "com.example.firstscren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715758020573-jgph610in2hbob6d2s2notfp6dt8hstn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87DTeHgA1U0ZYdFRemrGjhDXUTk696GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715758020573-jgph610in2hbob6d2s2notfp6dt8hstn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
